@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrystinaGerke
-- 👀 I’m interested in coding, sewing, photography, clean eating, and gaming! 
+- 👀 I’m interested in coding, sewing, photography, hydroponics, clean eating, and gaming! 
 - 🌱 I’m currently learning webdev at CareerFoundry. 
 - 📫 How to reach me - pictureofarose@gmail.com
 
