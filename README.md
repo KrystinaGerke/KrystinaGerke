@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrystinaGerke
 - 👀 I’m interested in coding, sewing, photography, hydroponics, clean eating, and gaming! 
-- 🌱 I’m currently learning webdev at CareerFoundry. 
-- 📫 How to reach me - pictureofarose@gmail.com
+- 🌱 I recently finished a fullstack bootcamp at CareerFoundry. 
+- 📫 How to reach me - krystinamgerke@gmail.com
 
 <!---
 KrystinaGerke/KrystinaGerke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
