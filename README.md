@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrystinaGerke
 - 👀 I’m interested in coding, sewing, photography, hydroponics, clean eating, and gaming! 
-- 🌱 I recently finished a fullstack bootcamp at CareerFoundry. 
+- 🌱 I finished a fullstack bootcamp at CareerFoundry in Feb 2022. 
 - 📫 How to reach me - krystinamgerke@gmail.com
 
 <!---
